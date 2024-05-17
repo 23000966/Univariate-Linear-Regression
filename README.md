@@ -38,7 +38,7 @@ plt.show()
 
 ```
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/23000966/Univariate-Linear-Regression/assets/153983364/828af894-53f2-4106-8798-69e918a72417)
 
 
 ## Result
